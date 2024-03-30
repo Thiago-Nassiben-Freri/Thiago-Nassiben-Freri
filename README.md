@@ -1,16 +1,16 @@
-### Hi there 👋
+# Thiago Nassiben Freri
 
-<!--
-**Thiago-Nassiben-Freri/Thiago-Nassiben-Freri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+Hello, Mates! I'm Thiago Nassiben Freri, and I'm enthusiastic about pursuing a career in programming, with a particular interest in transitioning into roles such as Data Analyst or Database Administrator (DBA).
 
-Here are some ideas to get you started:
+## About Me
+I am passionate about coding and its applications in data management and analysis. With a strong desire to delve deeper into the world of data, I aim to leverage my programming skills to excel in roles that involve organizing, analyzing, and extracting insights from large datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+I have good Python skills and proficiency in SQL, especially MySQL, with some experience in SQL Server. Furthermore, I have knowledge in HTML5, CSS3 and Bootstrap.
+
+## Contact
+Feel free to reach out to me at [thiagonassibenfreri2@gmail.com](mailto:thiagonassibenfreri2@gmail.com) for any inquiries or collaborations. Let's connect and explore opportunities together!
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/thiago-nassiben-freri/) and [GitHub](https://github.com/Thiago-Nassiben-Freri).
+
