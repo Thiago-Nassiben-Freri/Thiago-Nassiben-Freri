@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&width=435&lines=Welcome,+Mates!;I'm+Thiago+Nassiben;A+Python+Developer!;and+Aspiring+Data+Analyst!;Glad+you're+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&width=435&lines=Welcome,+Mates!;I'm+Thiago+Nassiben+Freri;A+Python+Developer!;and+Aspiring+Data+Analyst!;Glad+you're+here!)](https://git.io/typing-svg)
 
 <div aling="center">
   <center>
