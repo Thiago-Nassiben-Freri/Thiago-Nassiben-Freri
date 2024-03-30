@@ -3,6 +3,8 @@
 ## Overview
 Hello, Mates! I'm Thiago Nassiben Freri, and I'm enthusiastic about pursuing a career in programming, with a particular interest in transitioning into roles such as Data Analyst or Database Administrator (DBA).
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Nassiben-Freri&theme=tokyonight)
+
 ## About Me
 I am passionate about coding and its applications in data management and analysis. With a strong desire to delve deeper into the world of data, I aim to leverage my programming skills to excel in roles that involve organizing, analyzing, and extracting insights from large datasets.
 
