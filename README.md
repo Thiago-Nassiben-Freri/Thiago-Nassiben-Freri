@@ -1,7 +1,10 @@
-# Thiago Nassiben Freri
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&width=435&lines=Welcome!;I'm+Thiago+Nassiben;A+Python+Developer!;Glad+you're+here!)](https://git.io/typing-svg)
 
-## Overview
-Hello, Mates! I'm Thiago Nassiben Freri, and I'm enthusiastic about pursuing a career in programming, with a particular interest in transitioning into roles such as Data Analyst or Database Administrator (DBA).
+<div aling="center">
+  <center>
+    <img width="850em" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-Nassiben-Freri&bg_color=transparent&color=ffd700&line=ffd700&point=ffd700&area=true&hide_border=true">
+  </center>
+</div>
 
 <div>
   <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Nassiben-Freri&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
