@@ -6,8 +6,15 @@ Hello, Mates! I'm Thiago Nassiben Freri, and I'm enthusiastic about pursuing a c
 ## About Me
 I am passionate about coding and its applications in data management and analysis. With a strong desire to delve deeper into the world of data, I aim to leverage my programming skills to excel in roles that involve organizing, analyzing, and extracting insights from large datasets.
 
-## Skills
+## Main Skills
 I have good Python skills and proficiency in SQL, especially MySQL, with some experience in SQL Server. Furthermore, I have knowledge in HTML5, CSS3 and Bootstrap.
+</br>
+</br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Contact
 Feel free to reach out to me at [thiagonassibenfreri2@gmail.com](mailto:thiagonassibenfreri2@gmail.com) for any inquiries or collaborations. Let's connect and explore opportunities together!
