@@ -25,7 +25,7 @@ I am passionate about coding and its applications in data management and analysi
 ## Contact
 Feel free to reach out to me at [thiagonassibenfreri2@gmail.com](mailto:thiagonassibenfreri2@gmail.com) for any inquiries or collaborations. Let's connect and explore opportunities together!
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/thiago-nassiben-freri/) and [GitHub](https://github.com/Thiago-Nassiben-Freri).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/thiago-nassiben-freri/).
 
 ![Great Gatsby Footer](https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=footer)
 
