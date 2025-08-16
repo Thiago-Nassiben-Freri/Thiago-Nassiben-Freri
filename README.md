@@ -21,6 +21,8 @@ I am passionate about coding and its applications in data management and analysi
 ## Main Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## Contact
 Feel free to reach out to me at [thiagonassibenfreri2@gmail.com](mailto:thiagonassibenfreri2@gmail.com) for any inquiries or collaborations. Let's connect and explore opportunities together!
